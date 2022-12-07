@@ -1,0 +1,31 @@
+.title{
+    font-size: 75px; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: hotpink;
+    font: bold;
+}
+body{
+    color: hotpink;
+    background-image: url(https://cdn.theatlantic.com/thumbor/3SRM1FKXTJEcnybqULAOfNdCE1A=/0x0:2254x1268/1600x900/media/img/mt/2021/02/TS_01/original.jpg);
+
+}
+.taylor{
+    text-align: left;
+}
+.taywords{
+    color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 19px;
+}
+.tayvid{
+   text-align:left;
+}
+
+a:active, a:link, a:visited,a:hover{
+    background-color: transparent;
+    color: turquoise;
+    text-decoration: underline;
+   
+}
